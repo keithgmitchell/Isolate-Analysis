@@ -4,6 +4,7 @@ Isolate Analysis for the course mimg 109AL. Please notify us if you have any que
 ## Running Example Data:
 1. Open a python Jupyter notebook online:
 - https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb
+If Binder gives an error "Too many users running...", then instead go to https://mybinder.org/, type in the URL of this github repository https://github.com/keithgmitchell/Isolate-Analysis  under "GitHub repository name or URL", and click Launch.
 2. Once loaded go to *File>Open…*
 -	Upload the provided Analysis Notebook and Example Isolate Spreadsheet using the download button on this github. 
 3. Open the analysis notebook and the select *Run>Run All Cells*
