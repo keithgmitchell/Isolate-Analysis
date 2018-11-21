@@ -1,12 +1,12 @@
 # Isolate-Analysis
-Isolate Analysis for the course mimg 109AL
+Isolate Analysis for the course mimg 109AL. Please notify us if you have any questions or problems. 
 
 ## Running Example Data:
 1. Open a python Jupyter notebook online:
 - https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb
-2. Once loaded go to File>Open…
+2. Once loaded go to *File>Open…*
 -	Upload the provided Analysis Notebook and Example Isolate Spreadsheet using the download button on this github. 
-3. Open the file in your Jupyter notebook online and 
+3. Open the analysis notebook and the select *Run>Run All Cells*
 
 ## Analysis with your own data:
 3. Save your excel Isolate Spreadsheet as a `.csv ` file and then upload it to the Jupyter notebook like you did the example file. 
