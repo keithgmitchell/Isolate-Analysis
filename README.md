@@ -1,5 +1,7 @@
 # Isolate-Analysis
 Isolate Analysis for the course mimg 109AL. Please notify us if you have any questions or problems. 
+Gideon link for helping to identify microbes: https://web.gideononline.com/web/microbiology/identify_index.php?type=bacteria
+
 
 ## Running Example Data:
 1. Go to https://mybinder.org/, type in the URL of this github repository https://github.com/keithgmitchell/Isolate-Analysis  under "GitHub repository name or URL", and click Launch.
