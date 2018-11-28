@@ -12,6 +12,13 @@ Statistical tests are run to compare two or more variables. In an experiment, re
 If both the independent and the dependent variable are categorical, a **chi-squared** test can be used. When both variables are categorical, the *frequencies* of the variables can be compared by constructing a *contingency* table. The chi-squared test is then run on the contingency table. 
 
 For example, consider the following sample purity contingency table constructed by counting the number of isolates in Field 10 and 11 that were Pure or Not Pure:
+ 
+|          | Field 10 | Field 11 | Totals |
+|----------|----------|----------|--------|
+| Pure     | 3        | 5        | 8      |
+| Not pure | 4        | 6        | 10     |
+| Totals   | 7        | 11       | 18     |
+
 The null hypothesis of the chi-squared test is that the two variables *purity* and *field number* are *independent* from each other. In other words, if you know the identity of one variable, say, *purity*, you gain no additional information about the other variable. The alternative hypothesis is that the two variables are related to each other, so that information about one variable can help you predict the value of the other variable.
 
 The assumptions of the chi-squared test are as follows:
